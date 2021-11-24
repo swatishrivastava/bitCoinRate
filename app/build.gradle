@@ -54,7 +54,7 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:$version_lifecycle"
 
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$version_lifecycle"
-// Room components
+
     implementation "androidx.room:room-ktx:$version_room"
     kapt "androidx.room:room-compiler:$version_room"
     androidTestImplementation "androidx.room:room-testing:$version_room"
