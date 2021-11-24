@@ -1,8 +1,1 @@
-Showing latest BitCoin rate in USD on UI.  
-Used MVVM architecture pattern.  
-Used Android work manager to get real time updates even when the app is closed or killed. 
-Used Room to catch the data from the backend and maintain a single source of truth.  
-Used Jetpack and latest architecture components  
-Used Kotlin to develop project  
-Retrofit is used to get backend data 
-Separation of concern principle is used while designing the app.
+1. Showing latest BitCoin rate in USD on UI.  2. Used MVVM architecture pattern.  3. Used Android work manager to get real time updates even when the app is closed or killed.  4. Used Room to catch the data from the backend and maintain a single source of truth.  5. Used Jetpack and latest architecture components  6. Used Kotlin to develop project  7. Retrofit is used to get backend data  8. Separation of concern principle is used while designing the app.
